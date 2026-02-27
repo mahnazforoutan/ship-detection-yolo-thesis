@@ -157,27 +157,26 @@ names:
  تصاویر و نمودارها (پوشه results/figures/)
 برای YOLOv8m (نتایج نهایی):
 
-figures/confusion_matrices/yolov8m_confusion_matrix.png ← از فایل confusion_matrix (4).png (آخرین نسخه)
+figures/confusion_matrices/yolov8m_confusion_matrix.png 
+figures/curves/yolov8m_F1_curve.png 
 
-figures/curves/yolov8m_F1_curve.png ← از فایل BoxF1_curve (2).png (آخرین نسخه)
+figures/curves/yolov8m_PR_curve.png 
 
-figures/curves/yolov8m_PR_curve.png ← از فایل BoxPR_curve (2).png (آخرین نسخه)
+figures/curves/yolov8m_P_curve.png 
 
-figures/curves/yolov8m_P_curve.png ← از فایل BoxP_curve (2).png
+figures/curves/yolov8m_R_curve.png
 
-figures/curves/yolov8m_R_curve.png ← از فایل BoxR_curve (2).png
+figures/validation_samples/yolov8m_val_batch0_labels.jpg 
 
-figures/validation_samples/yolov8m_val_batch0_labels.jpg ← از val_batch0_labels (4).jpg
+figures/validation_samples/yolov8m_val_batch0_pred.jpg 
 
-figures/validation_samples/yolov8m_val_batch0_pred.jpg ← از val_batch0_pred (2).jpg
+figures/validation_samples/yolov8m_val_batch1_labels.jpg 
 
-figures/validation_samples/yolov8m_val_batch1_labels.jpg ← از val_batch1_labels (2).jpg
+figures/validation_samples/yolov8m_val_batch1_pred.jpg
 
-figures/validation_samples/yolov8m_val_batch1_pred.jpg ← از val_batch1_pred (2).jpg
+figures/validation_samples/yolov8m_val_batch2_labels.jpg 
 
-figures/validation_samples/yolov8m_val_batch2_labels.jpg ← از val_batch2_labels (3).jpg
-
-figures/validation_samples/yolov8m_val_batch2_pred.jpg ← از val_batch2_pred (2).jpg
+figures/validation_samples/yolov8m_val_batch2_pred.jpg 
 
 نمودار مقایسه نهایی:
 
