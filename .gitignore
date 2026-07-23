@@ -201,6 +201,26 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+# YOLO / Computer Vision
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.pb
+*.torchscript
+
+datasets/
+data/
+runs/
+wandb/
+comet_runs/
+
+*.log
+.ipynb_checkpoints/
+
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
